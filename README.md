@@ -35,16 +35,11 @@ npm run reset-project
 
 This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
 
-## Learn more
+## Note
 
-To learn more about developing your project with Expo, look at the following resources:
+If you are not available to see the data or you are getting "Something went wrong" or "There is an error" Error then follow the below steps:
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+1. Create a .env file to the root folder
+2. Add a variable named "RAPID_API_KEY" and add your api key
 
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+Follow this link to get API_KEY (https://rapidapi.com/letscrape-6bRBa3QguO5/api/jsearch)
